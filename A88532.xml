@@ -1,0 +1,268 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A looking-glas for the Presbitary government, establishing in the Church of England. Or, A declaration of the revolution of the times, pithily composed and seasonably recommended to the view of all sorts of people, but principally to the judicious reformers of the church and state. Look in this glasse you'l not think't strange, England once more receives a change. Of Scotlands government, you'l have a view, and Englands Presbitary which is new. As in a glasse you here may see, the king: the kingdomes misery. The crown resign'd, religion suffers, by pride, ambition, and selfe lovers.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88532</idno>
+            <idno type="STC">Wing L3030</idno>
+            <idno type="STC">Thomason E21_40</idno>
+            <idno type="STC">ESTC R1040</idno>
+            <idno type="EEBO-CITATION">99858833</idno>
+            <idno type="PROQUEST">99858833</idno>
+            <idno type="VID">110892</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88532)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110892)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 4:E21[40])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A looking-glas for the Presbitary government, establishing in the Church of England. Or, A declaration of the revolution of the times, pithily composed and seasonably recommended to the view of all sorts of people, but principally to the judicious reformers of the church and state. Look in this glasse you'l not think't strange, England once more receives a change. Of Scotlands government, you'l have a view, and Englands Presbitary which is new. As in a glasse you here may see, the king: the kingdomes misery. The crown resign'd, religion suffers, by pride, ambition, and selfe lovers.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B. A.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1645 [i.e. 1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A review of the relation between church and state in England, in support of Presbyterian legislation against independents and traditionalists.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Thomason annotation: the 5 in the imprint date is crossed out and altered to 1644; "Decemb: 23 1644".</note>
+                  <note>Thomason received his copy December 23, 1644.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:110892:1" rendition="simple:additions"/>
+A LOOKING-GLAS FOR THE PRESBITARY <hi>GOVERNMENT,</hi> ESTABLISHING IN THE CHURCH OF <hi>ENGLAND.</hi>
+            </p>
+            <p>OR, A Declaration of the Revolution of the times, pithily compoſed and ſeaſonably recommended to the view of all ſorts of people, but principally to the Judi<g ref="char:EOLhyphen"/>cious Reformers of the Church and State.</p>
+            <lg>
+               <l>Look in this Glaſſe you'l not think't ſtrange,</l>
+               <l>England once more receives a change.</l>
+               <l>Of Scotlands Government, you'l have a view,</l>
+               <l>And Englands Presbitary which is new.</l>
+               <l>As in a Glaſſe you here may ſee,</l>
+               <l>The King: the Kingdomes miſery.</l>
+               <l>The Crown reſign'd, Religion ſuffers,</l>
+               <l>By Pride, Ambition, and Selfe Lovers.</l>
+            </lg>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>B. A.</hi> 1645.</p>
+            <pb facs="tcp:110892:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:110892:2"/>
+            <head>A LOOKING-GLASSE For the PRESBITARY GOVERNMENT, Eſtabliſhing in the Church of <hi>EEGLAND.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>S I conſider the matter which I have to write, me thinks it hath the rare nature of a Looking-glaſſe; to ſhew and repreſent that which is behind, aſwell as that which is before, wherein I doubt not but to gaine the better acceptance if I avoid theſe things which are com<g ref="char:EOLhyphen"/>monly knowne; and have often ſounded in your eares.</p>
+            <p>Before the Conqueſt the Pope had no ſupremacie in England, but all the intercourſe and Commerce be<g ref="char:EOLhyphen"/>tween the See of <hi>Rome</hi> and this Kingdome, was in theſe three partticulers.</p>
+            <p>Firſt, it was confeſſed that the Engliſh were con<g ref="char:EOLhyphen"/>verted unto Chriſtianity by the meanes of Pope <hi>Gre<g ref="char:EOLhyphen"/>gory,</hi> about the yeare of our Lord ſix hundred.</p>
+            <p>Secondly, the Kings of England paid <hi>Peter-</hi>pence to <hi>Rome,</hi> which in the old Engliſh were called Almes<g ref="char:EOLhyphen"/>pence,
+<pb n="2" facs="tcp:110892:3"/>
+and were diſtributed among the poore impotent perſons which ſhould come out of England to <hi>Rome;</hi> which was paid upon this reaſon?</p>
+            <p>The Pope taking upon him to be a diſpenſer of ſpi<g ref="char:EOLhyphen"/>rituall gifts, and that, the Mother-Church of the world, that Church received all into it, <hi>viz.</hi> the halt, blind, ſick, &amp;c. And for that the Conclaves of <hi>Rome</hi> were not onely thirſty after mony, but loath to bee pe<g ref="char:EOLhyphen"/>ſtered with the frequent reſort of poore people into the City, without having meanes from the ſeverall Countries from whence they came, for their releife and maintenance; they found out this way not only to defray that charge, but to bring a great Revenue into the <hi>Popes</hi> Treaſury.</p>
+            <p>Thirdly, the Biſhops and Abbots had ſometimes deeds of privile<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge and confirmations to their Seas and Abbathies from the Pope of <hi>Rome,</hi> but before <hi>Hen<g ref="char:EOLhyphen"/>ry</hi> the ſeconds time, the Biſhops took no oath to the See of <hi>Rome,</hi> neither was the Popiſh Lithurgie or the Cannon Law of any uſe before his dayes in this King<g ref="char:EOLhyphen"/>dome; for Pope <hi>Gregory</hi> ſaith, it was not neceſſary that the <hi>Roman</hi> Lithurgie ſhould be followed in this King<g ref="char:EOLhyphen"/>dome, any other m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ght ſerve, but in <hi>Henry</hi> the ſeconds time, <hi>Thomas Becket</hi> Arch-Biſhop of Canterbury, pra<g ref="char:EOLhyphen"/>ctiſed to inlarge the power of the Pope, for which hee being killed in a prepoſterous manner, though the King de<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed to have any hand in the fact<hi>:</hi> yet to bee reconci<g ref="char:EOLhyphen"/>led to the Clergie, he granted all their demands; and what priviledges they deſired. So that the death of <hi>Be<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ket</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the ſeventeenth yeare of <hi>Henry</hi> the ſecond, <hi>Anno</hi> 1171. was the birth-day of the Canon-Law, Notwithout cauſe did then the Pope Canonize <hi>Becket</hi> and
+<pb n="3" facs="tcp:110892:3"/>
+appointed for him a holiday in England, yet <hi>Caeſarius</hi> the Monk, queſtioneth whether <hi>Becket</hi> were ſaved or not?</p>
+            <p>Thus was the King led away by a Popiſh Clergie fa<g ref="char:EOLhyphen"/>ction, inſomuch that (now and not before) they plead exemption from temporall juriſdiction, and yet are made temporall Iudges, being Sheriffes of Counties, and Bayliffes of Hundreds, which makes <hi>Graftshood</hi> Biſhop of Lincolne break forth into theſe words. That for a Divine to medle in a ſequeler Court is, as if a Bird in the Ayre ſhould with the Mouldwarp work in the earth.</p>
+            <p>The Pope having by this meanes gotten ſuch ſtrong footing in this Kingdome, no meanes was left un<g ref="char:EOLhyphen"/>attempted to inthrall this Iſland in ſtronger cords of bondage and ſervitude, which was the eaſier to effect; for that King <hi>Iohn</hi> ſought rather to pleaſe the Faction, then to regulate the Lawes <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f the land: becauſe he was a uſurper, and of ſo weake c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pacity, that as hee had no right to the Crowne, ſo hee cared not to wrong the whole Kingdome; both in not defending their Liber<g ref="char:EOLhyphen"/>ties, and reſigning his intereſts therein; ſurrendring the Crowne to the Pope to his diſhonour and perpetu<g ref="char:EOLhyphen"/>all infamy. Thus was the Crowne of our King taken from him and laid at the feet of the Holy Father, with which at this day his Miter is laurel'd about.</p>
+            <p>Theſe growing evils begat the warres betweene the King and his Barons, <hi>temp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re Henry</hi> the third, in whoſe raigne <hi>Mounford</hi> a Frenchman was the only favourite of the Kings delight, and now were the Reines of Rule put alone into the hands of the Kings halfe Brethren; <hi>Adam, Guido, Godfrey,</hi> and <hi>William;</hi> theſe Miniſters doe what they liſt, they fill upon the places of Iu<g ref="char:EOLhyphen"/>ſtice, and (being ſtrangers) put out Engliſh men and ex<g ref="char:EOLhyphen"/>acted
+<pb n="4" facs="tcp:110892:4"/>
+of whom and how they pleaſed, ſet prizes on all offices, and ruled the Law with their owne breaſts, keeping the ſubject from complaining to the King; and theſe ſtrangers ſeemed not to have been invited hither, but to have entred the land by Conqueſt. And this we ſee is the capacity of Government in a King, when it falleth to be a prey to ſuch lawleſſe Minions; for they generally take warrant from Princes weakneſſe, of licen<g ref="char:EOLhyphen"/>tious liberty.</p>
+            <p>This King being thus drawne away from his Com<g ref="char:EOLhyphen"/>mons, was brought into ſuch want, that hee firſt ſold his Lands, then his jewels, and pawneth his Crowne; and when hee had neither credit to borrow (having ſo often failed the truſt he made) nor morgage of his own, laid to pawne the jewels of Saint <hi>Edwards</hi> ſhrine, and afterwards was forced to breake up his houſe, and with his Queen and Children,</p>
+            <p>
+               <hi>Cum Abatibus &amp; Prierihus humilia ſatis hoſpitia quaerunt, et prandia.</hi>
+            </p>
+            <p>The State was managed by ſoure and twenty Com<g ref="char:EOLhyphen"/>miſſioners, ſo that he had left himſelf neither election of publique officers, nor private attendance; and was for<g ref="char:EOLhyphen"/>ced to exile his halfe brethren under his owne hand in writing, and the King himſelfe being taken priſoner at the battell of <hi>Lewis,</hi> was brought to ſee his errour and misfortune; and afterwards by a happy concur<g ref="char:EOLhyphen"/>rence with the Commons, was re-eſtabliſhed in his Throne, and raigned many yeares after in glory and tranquility.</p>
+            <p>Although upon the ſetling of thoſe diſtractions the Adverſaries to the publike weale of this Kingdome re<g ref="char:EOLhyphen"/>ceived ſuch a ſtroke, that they were able to act little
+<pb n="5" facs="tcp:110892:4"/>
+for many yeares after; yet were they alwayes plotting and contriving againſt this State, by ſecret Ieſuiticall and Domeſtick plots, and raiſing Iarres and open com<g ref="char:EOLhyphen"/>motions abroad<hi>:</hi> witneſſe the continuall warres between England and Spaine in the dayes of Queen <hi>Elizabeth</hi> of happy memory, and the Iriſh rebellion at the ſame time; all which troubles were hatched by the Spaniſh and Jeſuiticall faction at home<hi>:</hi> which at her Majeſties firſt entrance to the Crowne (though for wiſdome and vertue was the Phenix of her ſex) had ſo cunningly in<g ref="char:EOLhyphen"/>ſinuated with her ſacred Majeſty, that they had almoſt at the very morning of Knowledge (which indeed is the conſtant practiſe of their ſandy foundations) perſwaded her that there was too much preaching, and that one or two preaching Miniſters in a County was ſufficient; which was ſo ſubtilly infuſed into her eare, that it took ſuch impreſſion in her Royall Breaſt, that her Majeſty wrote a Letter to Biſhop <hi>Grindall</hi> then Archbiſhop of Canterbury, ſeeming to reliſh that adviſe, but this re<g ref="char:EOLhyphen"/>ligious Biſhop being then foure miles diſtant from Court, wrote another Letter to her Majeſty, declaring that her Majeſty was miſadviſed therein, deſiring that ſhee would not have a thought of reſtraing the worſhip and ſervice of God, ſhewing that nothing was ſo dan<g ref="char:EOLhyphen"/>gerous to her perſon as ignorance in her people, proving that to be the cauſe of the Rebellion (about the ſame time) in the North; beſides it was one way whereby ſhe ſhould beſt diſcharge her duty to God, if ſhe pro<g ref="char:EOLhyphen"/>moted his Goſpell.</p>
+            <p>This Counſell of the Biſhops wrought ſo effectually on the Religious affections of that gracious Queene, that ſhe preſently (not to conſult with fleſh and bloud)
+<pb n="6" facs="tcp:110892:5"/>
+received the former Councell, and lookt upon it and the perſons as favouring of the Ieſuiticall faction, and al<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hough the G<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oves (many Reliques of Popery) were no<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> utterly taken away (it being then but the dawning of the day) yet Religion did flouriſh and increaſe not only during the whole Raigne of that famous Queene, but in the time of King <hi>James</hi> mauger, all the wicked practiſes of the adverſaries of our Religion and Liberty, and when they perceived that they were infatuated in their Counſels, and confounded in their domeſtick plots (that it might appeare to the world, that they are ever plotting miſcheife) they take on them the mana<g ref="char:EOLhyphen"/>ging of a Treaty of marriage for our King that now is, till they had treated the Palſgrave out of his Kingdome, and after ſo much time loſt, a match was concluded with France to our farre greater diſadvantage at the preſent, and hath proved a ſcourge to us for the future; neither doe wee read that ever any match with France proved advantageous to this Kingdome, though the par<g ref="char:EOLhyphen"/>ties were of our Religion; much leſſe therefore could it be expected when they were of different Religions, and Articles agreed upon (which on out ſide were too well kept) that ſuch a number of Prieſts and Capuchians, ſhould come over into England, and that Idolatry ſhould be openly exerciſed in her Majeſties Chappell; <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hough a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l Engliſh men except her Majeſties ſervants were prohibited from comming thither) neither was the Queen to uſe any private perſwaſions to his Majeſty, concerning matters of Religin.</p>
+            <p>But mark how the Game was played, now, Canter<g ref="char:EOLhyphen"/>buries Chaplaines muſt preach nothing but themſelves and Arminianiſme (the ſubtileſt ſort of Popery) and
+<pb n="7" facs="tcp:110892:5"/>
+wee muſt believe that Papiſts were honeſt men, and might goe to Heaven as ſoone as Proteſtants (yet they might alwayes account and call us Heretiques and that there was ſome little difference betweene their Religion and ours, that they might eaſily bee re<g ref="char:EOLhyphen"/>conciled, and as an efficatious meanes of this reconcili<g ref="char:EOLhyphen"/>ation, her Majeſties Chappell doores muſt ſtand open to all Commers, and ſights bee ſeene there, and muſick to be heard; farre exceeding any paſtime at Interludes or Stage-playes, the number of Prieſts about her Ma<g ref="char:EOLhyphen"/>jeſty muſt have been doubled (if not trebled) and Ieſu<g ref="char:EOLhyphen"/>ites peeping, nay ſwaggering about in every ſtreet: more Chappels muſt bee built, and Nunneries erected; the Queene her ſelfe is forced (for what offence I know not) to goe barefoot to Tyburne and back againe on pennance? His Majeſty put to an exceſſive charge in maintaining thoſe which under a profeſſion of povertie eate the fatte of the Land, and had their pockets full of gold, and a garbe like a Lord, yet might not his Maje<g ref="char:EOLhyphen"/>ſty complaine of this, nor ſuffer it to bee ſpoken on. Nay when they had broken all their conditions, inſtead of baniſhing them (as by the Law they might) they are now become ſuch neceſſary inſtruments, and ſo po<g ref="char:EOLhyphen"/>tent; that they muſt ſet forward and contribute to the maintaining of a warre againſt our brethren of Scot<g ref="char:EOLhyphen"/>land.</p>
+            <p>Yea further, their advice is held better then a Par<g ref="char:EOLhyphen"/>liament, and Father <hi>Phillips</hi> is protected within the verge of the Court, againſt the power and authority of the ſupreame Court in the Kingdome; and the King cannot reſt in his private Chamber.</p>
+            <pb n="8" facs="tcp:110892:6"/>
+            <p>And although the King by his Proclamation declare the inſurrection in Ireland to be a Rebe lion, yet with<g ref="char:EOLhyphen"/>in a ſhort time after their factors are protected, and the Rebels (to the diſhonour of his Majeſty) are ſo impu<g ref="char:EOLhyphen"/>dent, that they boaſt of the authority they have from the Royall powers, to warrant their maſſacring thou<g ref="char:EOLhyphen"/>ſands of Proteſtants in that Kingdome, and the provi<g ref="char:EOLhyphen"/>ſions which were deſigned for their releife by the Par<g ref="char:EOLhyphen"/>liament, are intercepted by the Papiſts in England, and their adherents; the Parliament are ſometimes ter<g ref="char:EOLhyphen"/>med Rebels, and ſometimes no notice taken of them: and an Anti-Parliament cal<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed at Oxford, which imi<g ref="char:EOLhyphen"/>tated all thoſe branches o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> priviledge which is only pro<g ref="char:EOLhyphen"/>ſper to the Parliament at firſt called by his Majeſties writ: wherein he calls them his great Couſell; but when it appeared that this plot to deceive the people, could not take that effect as was intended, It is once more granted, that the L<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rds and Commons aſſembled in the Parliament at Weſtminſter, are the Parliament of Eng<g ref="char:EOLhyphen"/>land? by which at the laſt is confirmed (even from Ox<g ref="char:EOLhyphen"/>ford) that whatſoever Ordinances, &amp;c. have been made at Weſtminſter ſince the ſitting of the Houſe, have been done by the P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rliament of England, what ever <hi>G. Dighy</hi> was pleaſed heretofore to call them, and what<g ref="char:EOLhyphen"/>ſoever a Parliament hath power to doe, may be done by them hereafter.</p>
+            <p>Having thus farre declared the ſtate of this King<g ref="char:EOLhyphen"/>dome from the Conqueſt unto our times, under the burthen of an aſpiring Ieſuited Clergy, and their facti<g ref="char:EOLhyphen"/>on, it remaines, that I ſhould briefly repreſent unto you the true ſtate of the Church, by which, as in a glaſſe you may perceive the foundation, increaſe, and altera<g ref="char:EOLhyphen"/>tions
+<pb n="9" facs="tcp:110892:6"/>
+therein; which that I may the clearer demon<g ref="char:EOLhyphen"/>ſtrate unto you, I ſhall aſcend above the Conqueſt, and in the firſt place lay before you the ſtate of the proſeſ<g ref="char:EOLhyphen"/>ſours of Chriſt and his Goſpell in the primitive times: for our orthodox writers ſpeaking of thoſe times, ſay thus; From the time of our Saviour, untill the Empe<g ref="char:EOLhyphen"/>rours became Chriſtians, the people of God aſſembled upon the face of the earth much, as the fiſhes doe in the Sea, or the birds in the Aire; for the inhabitants thereof admit of no bounds or particuler diviſions; neither were Chriſtians allowed any particuler bounds or pla<g ref="char:EOLhyphen"/>ces of reſidence or meeting, but gathered together and aſſembled ſometimes in private houſes, and ſometimes in Cells and Caves; and therefore were the more ma<g ref="char:EOLhyphen"/>terially called the Catholick Church diſperſed over the face of the Earth, for all the world was but one Di<g ref="char:EOLhyphen"/>oceſſe or Pariſh: the Church in thoſe times much re<g ref="char:EOLhyphen"/>ſembling the Church of England in the dayes of Queen <hi>Mary,</hi> yet were they called a Church; for by this word is meant the Aſſembly of faithfull Chriſtians, for <hi>So<g ref="char:EOLhyphen"/>lomon</hi> bleſſed all the Church of Iſrael, and Saint <hi>Peter</hi> ſaith, the Church ſaluteth you.</p>
+            <p>But when the Emperour became a Chriſtian, there was ſoon a glorious viſible Church, for <hi>Euſebius</hi> writes, about the yeare 254. after Chriſt, there was forty ſix Presbiters in the Church of <hi>Rome,</hi> and 1500. poore peo<g ref="char:EOLhyphen"/>ple maintained by the contribution of the Chriſtians of the Citie; and there was of the Clergy 108. which were men that had ſuch excellent gifts, and of ſo holy a con<g ref="char:EOLhyphen"/>verſation, that the proverb of thoſe dayes is, that they had woodden Challaces, and golden Prieſts.</p>
+            <p>But to diſcend nearer to our times and our own coun<g ref="char:EOLhyphen"/>try
+<pb n="10" facs="tcp:110892:7"/>
+Ethelbert King of Kent married with <hi>Berta,</hi> the French Kings daughter, who was a Chriſtian and ſhe being deſirous to have her husband, of her Religi<g ref="char:EOLhyphen"/>on, made meanes to Pope Gregory, firſt to ſend ſome miniſters to convert the Engliſh who ſent <hi>Auguſtine</hi> the monke and <hi>Candidus</hi> the Prieſt, which were curteouſly received by the King, and <hi>Auguſtine</hi> made Biſhop or miniſter of Canterbury, there being a Church or Tem<g ref="char:EOLhyphen"/>ple; and being the chiefe place in the dominions of the King of Kent, other places became ſubordinate to this, and ſo he got the title of Metropolitan or Archbiſhop, and as Chriſtanity increaſed and Churches built they were but as chappels of eaſe to this church, and all were brought hither to be chriſtened this being the pariſh church, for we finde in the Epiſtle of our Saxon King <hi>Renulphus,</hi> that the whole Archiepiſcopall ſea of Can<g ref="char:EOLhyphen"/>terbery is called parochia, or a pariſh, yet at that time there were other places for chriſtians to aſſemble in; but the church, at canterbury was like unto Halifax in Yorkeſhire, which hath twelve chappels belonging to its Dioces or pariſh.</p>
+            <p>In England before William the conquerers time there were few country churches, or at leaſtwiſe pariſh churches, for Dioceſſes or pariſhes were erected ſince according to the civill government of the Land, to the intent it might be known out of what towneſhip tithes were due.</p>
+            <p>Having laid this foundation and ſhewed you what a church is, and what a Biſhop and his Dioceſſes were we will give a ſhort view of their varying from their firſt ſtation, for by degrees they uſurp authority over the whole clergie, get into temporall offices and be<g ref="char:EOLhyphen"/>come
+<pb n="11" facs="tcp:110892:7"/>
+               <hi>rather Stateſmen then Divines yea though the Biſhop of Winton ſaith, that the Church is never taken for the aſſembly of Prieſts alone, but for the aſſembly of all the faithfull, yet the Clergie alone asſembled in their convocations would be accounted the Church of E<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gland, as Linwood hath it, and were growne to that height, that Anſelme Archbiſhop of Canterbu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y writes in his Epiſtle to the Pope, that the power of the holy Church is drawne by two open, of equall ſtrength and beauty, the King and himſelfe. And the Biſhop of Winton, though he were the Kings brother, asſembled all the Clergie againſt King</hi> Stephen, <hi>And</hi> Temopre H<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ry 1. <hi>The Biſhop complies with the Pope ſtanding in defence of the King, untill the King complying with his Parliament, made a Law that if any Biſhop or Clergie-man had any wrong offered him he ſhould have no writ to redresſe it, that all the lay fees of the Biſhop and Clergie, ſhould be ſeized into the Kings hands, that if any man met with a Clergie man which had a better horſe then his he might unhorſe him and change with him (then change was no robbery?)</hi>
+            </p>
+            <p>
+               <hi>By this meanes the King was for the preſnt reſtored to his right of government, and the preſent abuſes found ſome redreſſe, but they could not long be kept under, for innumberable are the preſidents which I might recite in the dayes of Hen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y</hi> 7. <hi>Edward the</hi> 6. <hi>Queen Mary, Queene Elizabeth, and King Iames too, of the plots againſt the Church, againſt the Kingdome, againſt preaching, a<g ref="char:EOLhyphen"/>gainſt Religious diſcourſe, and Godly meetings, and to bring in Popery, tyrannie profanation, all which have been practized by many Biſhops, but becauſe I would not</hi>
+               <pb n="12" facs="tcp:110892:8"/>
+be tedious, finding them all ſummoned up in one (as yet) living example, who though in his life was like his predeceſlour <hi>Thomas Becket,</hi> yet I am cofident hee will not in his death; for the death of <hi>Becket</hi> is ſaid to be the birth of the Canon Law and ſuperſtition, but I hop<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the death of this man, will bee the death of theſe and many other Romiſh Dregs.</p>
+            <p>And thus being again diſcended to the preſent times, I ſhall ſay little concerning the firſt part of my diſ<g ref="char:EOLhyphen"/>courſe touching the Civill government of this King<g ref="char:EOLhyphen"/>dome, for that it hath abundantly beene manifeſted to the world, the unwearied pains, and unceſſant indeavours that have been long uſed by the Honourable Houſes of Parliament, to redreſſe them, and to remove the cauſes from whence all thoſe evills flow; wherein by the way we may obſerve that the evill of evills, or the greateſt evill that ever befell this Kingdome, is, that the inhabi<g ref="char:EOLhyphen"/>tants thereof for the moſt part, are as a man in a dead palſey, and one ſide quite benummed, and utterly voyd of ſence or feeling; or like one that is ſtricken with ſome other deſperate diſeaſe: and inſtead of ſeeking a cure, plungeth himſelfe into a condition irrecoverable. And ſuch an evill as this is not to be paralelld amongſt all the diſtempers and revolutions of times, ſince Chri<g ref="char:EOLhyphen"/>ſtianity firſt entred this Iland. For though our Hiſtori<g ref="char:EOLhyphen"/>ans mention former differences betweene the King and his ſubjects (and that in time of a Parliament too) which grew to ſo g<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eat a height, that it produced open warres (even when the whole Kingdome for matter of Religion, were univerſally of one mind) yet were the Commons of this land ſo tender of their birth-rights and liberty of their poſterity, that they maintained them
+<pb n="13" facs="tcp:110892:8"/>
+with their deareſt blood; but in a dead Lithurgy is this age, that although liberty was never deeper ingaged and Religion, the life of our lives at the ſtake, the greateſt part of this Kingdome either ſtand as Newters, or moſt unnaturally, by a courſe of violence, endeavour to plunge themſelvs and their poſterity into a condition irrecoverable, and though they profeſſe a hatred to Popery, joyne with all the Papiſts in the Kingdom, yea the uncivillized barberous bloody Iriſh Rebels, which are more cruell then <hi>Nero.</hi>
+            </p>
+            <p>But I haſten to a period, for it is my taske to draw my concluſions from what I roughly repreſent, and lay before you; for having in the ſecond part of my diſ<g ref="char:EOLhyphen"/>courſe declared the foundation of Chriſtianity, the na<g ref="char:EOLhyphen"/>ture of a Church; and given you a ſhort hint of the manner of Diſcipline and government therein, and how it hath varied from the firſt foundation, I ſhall humbly leave the rectifying or re-eſtabliſhment thereof to the grave and juditious reformers of the Church and State. For though there be ſome doubts whether the Church at Ieruſalem, were but one Congregation or aſſembly in the Apoſtles time, yet if we conſider the multitude of Chriſtians that were there, and the ſeverall ſorts of Languages, and Nations, in i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> we may thence gather, that there were more places to Congregate then one, elſe all could not hear, or if they could, yet were not capable to underſtand and edifie. And as for the diviſion of pariſhes the matter is not great, being a politique Law, which a State have had power to make in all ages.</p>
+            <p>That there were Presbiters in the Church is not de<g ref="char:EOLhyphen"/>nyed, but ſome queſtion is made what power and authority they had over the Clergie which we humbly con<g ref="char:EOLhyphen"/>ceive
+<pb n="14" facs="tcp:110892:9"/>
+may eaſily be cleered, and though the Miniſter may bee preſented by the Presbyters (as in the Church of Scotland) yet may there be ſuch teſtimony and approbation given, by conſent of the P<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iſh where he or they are to ſerve, that all ſcruples <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> away; and tender conſciences (both in this and <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>) receive good ſatisfaction. And the difference be<g ref="char:EOLhyphen"/>tween <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Presbyterians and Independents, is not in point of Religion, but in matter of Civill Government, which the Ci<g ref="char:EOLhyphen"/>v<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Magiſtrates have power to ſettle according to the policy of <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, which power hath beene exerciſed heretofore in this K<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om, wherein I humbly conceive they followed the ex<g ref="char:EOLhyphen"/>amp<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> or the renowned Senators of the Roman State, for though I find not in the old Law of <hi>Moſes,</hi> that any man was to dye for theft, yet I read that two theeves were crucified with our Sa<g ref="char:EOLhyphen"/>viour, which being according to the politick lawes amongſt the Romans, was not condemned by Chriſt himſelfe or his Apo<g ref="char:EOLhyphen"/>ſtles And when <hi>Shemei</hi> was confined to a city, out of which hee was not to goe on paine of death, though we read not before of any ſuch penalty upon the breach of ſuch confinement; yet hee was executed for that offence, and the judgement acknowledg<g ref="char:EOLhyphen"/>ed againſt him to be juſt and good.</p>
+            <p>If this be the caſe, then the Parliament of England have power to make Laws, for the Civill Government in Church and Com<g ref="char:EOLhyphen"/>mon-wealth (which are not repugnant to the word of God) and by the Lawes of this Land, pariſhes are already divided: and thoſe which are called Independents, are not able to make it appeare that there was any ſuch Independency as ſome have aimed at in the Church of Ieruſalem or elſewhere in the primi<g ref="char:EOLhyphen"/>tive times, after the Church came to be ſetled. O let it not there<g ref="char:EOLhyphen"/>fore be ſaid in <hi>Gath,</hi> or publiſhed in <hi>Aſhkelon;</hi> that any haughty ſpirits ſtrive to make a breach amongſt thoſe which are within the Pale of the Church of God, but let us ſubmit to every Or<g ref="char:EOLhyphen"/>dinance of man for the Lords ſake, and let it bee our conſtant prayers, that this great Counſell may goe on in eſtabliſhing ſuch lawes in Church and Kingdome, as may bee for the glory of God, and eſtabliſhing of peace and tranquility amongſt us; So ſhall they doe worthily, and be rendred famous to all poſte<g ref="char:EOLhyphen"/>rity.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:110892:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
